@@ -4,12 +4,12 @@
 	<div class="isimenu">
 		<div class="isi">
 		<br>
-		<center><h2 style="color:#5c8fbf">Selamat Datang Di Sistem Informasi Online</h2></center><br>
+		<center><h2>Selamat Datang Di Sistem Informasi Online</h2></center><br>
 
 			<center><img src="img/sekolah.gif" width="700" height="300"></center><br><br>
 			<p><br/></p>
 				<center><h2 style="color:#5c8fbf">Sambutan Kepala Sekolah</h2><br/></center>
-				<center><img src="img/kepsek.jpg" width="200" height="250"></center>
+				<center><img src="img/kepsek.jpg" width="250" height="300"></center>
 				<p><br/></p>
 				<h4>Assalamualaikum wr wb</h4>
 				<p><br/></p>
