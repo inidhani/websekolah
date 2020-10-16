@@ -26,7 +26,7 @@
 	</div>
 
 	<div class="fotos">
-		<a href=""><img src="img/telkom.png" width="200" height="200"></a>
+		<a href=""><img src="img/telkom.png" width="100" height="100"></a>
 	</div>
 
 	<div class="fotos2">
